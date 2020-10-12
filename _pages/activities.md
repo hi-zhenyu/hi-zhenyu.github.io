@@ -5,7 +5,11 @@ title: Activities
 description: 
 ---
 
-### Academic Activities
+### Work Experience
+
+- Research Intern at [Baidu NLP](http://nlp.baidu.com/) mentored by Xinyan Xiao \[[website](https://scholar.google.com/citations?user=lWRYa3wAAAAJ&hl=zh-CN)\].
+
+### Academic Service
 
 #### Journal Reviewer
 
@@ -23,8 +27,6 @@ description:
 - Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2019
 - The 9th Pacific-Rim Symposium on Image and Video Technology (PSIVT) 2019
 
-
-### Service
+### Others
 
 - Volunteer service for [ACM TURC 2019](http://acmturc.com/2019/cn/index.html), Chengdu.
-
