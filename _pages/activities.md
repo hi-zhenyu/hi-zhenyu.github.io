@@ -26,6 +26,7 @@ description:
 - International Conference on Tools with Artificial Intelligence (ICTAI) 2018
 - Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2019
 - The 9th Pacific-Rim Symposium on Image and Video Technology (PSIVT) 2019
+- IEEE International Conference on Multimedia & Expo (ICME) 2021
 
 ### Others
 
