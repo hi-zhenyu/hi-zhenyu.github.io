@@ -15,18 +15,22 @@ description:
 
 -  IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 -  IEEE Transactions on Systems, Man and Cybernetics: Systems
+-  Neurocomputing
 -  IEEE Access
 -  IET Image Processing
 -  Electronics Letters
--  IEEE Transactions on Systems, Man and Cybernetics: Systems
+-  The Visual Computer
 
 #### Conference Reviewer
 
-- 15th International Symposium on Neural Networks (ISNN2018)
-- International Conference on Tools with Artificial Intelligence (ICTAI) 2018
-- Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2019
-- The 9th Pacific-Rim Symposium on Image and Video Technology (PSIVT) 2019
-- IEEE International Conference on Multimedia & Expo (ICME) 2021
+- International Conference on Learning Representations (ICLR)
+- Neural Information Processing Systems (NeurIPS)
+- International Symposium on Neural Networks (ISNN)
+- International Conference on Image and Graphics 2021 (ICIG)
+- International Conference on Tools with Artificial Intelligence (ICTAI)
+- Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+- Pacific-Rim Symposium on Image and Video Technology (PSIVT)
+- IEEE International Conference on Multimedia & Expo (ICME)
 
 ### Others
 

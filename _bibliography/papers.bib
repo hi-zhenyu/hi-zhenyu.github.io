@@ -1,6 +1,23 @@
 ---
 ---
 
+@ARTICLE{huang2021deep,
+  author={Huang, Zhenyu and Zhou, Joey Tianyi and Zhu, Hongyuan and Zhang, Changqing and Lv, Jiancheng and Peng, Xi},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Deep Spectral Representation Learning From Multi-View Data}, 
+  year={2021},
+  volume={30},
+  number={},
+  pages={5352-5362},
+  doi={10.1109/TIP.2021.3083072},
+  html={https://ieeexplore.ieee.org/abstract/document/9446572},
+  code={https://github.com/XLearning-SCU},
+  bib={huang2021deep.bib},
+  Pdfurl = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9446572},
+  abstract = {Multi-view representation learning (MvRL) aims to learn a consensus representation from diverse sources or domains to facilitate downstream tasks such as clustering, retrieval, and classification. Due to the limited representative capacity of the adopted shallow models, most existing MvRL methods may yield unsatisfactory results, especially when the labels of data are unavailable. To enjoy the representative capacity of deep learning, this paper proposes a novel multi-view unsupervised representation learning method, termed as Multi-view Laplacian Network (MvLNet), which could be the first deep version of the multi-view spectral representation learning method. Note that, such an attempt is nontrivial because simply combining Laplacian embedding (i.e., spectral representation) with neural networks will lead to trivial solutions. To solve this problem, MvLNet enforces an orthogonal constraint and reformulates it as a layer with the help of Cholesky decomposition. The orthogonal layer is stacked on the embedding network so that a common space could be learned for consensus representation. Compared with numerous recent-proposed approaches, extensive experiments on seven challenging datasets demonstrate the effectiveness of our method in three multi-view tasks including clustering, recognition, and retrieval. The source code could be found at www.pengxi.me .}
+}
+
+
 @inproceedings{yang2021MvCLN,
    title={Partially View-aligned Representation Learning with Noise-robust Contrastive Loss},
    author={Yang, Mouxing and Li, Yunfan and Huang, Zhenyu and Liu, Zitao and Hu, Peng and Peng, Xi},
@@ -9,7 +26,9 @@
    year={2021},
    html={http://cvpr2021.thecvf.com},
    code={https://github.com/XLearning-SCU/2021-CVPR-MvCLN},
-   bib={yang2021mvcln.bib}
+   bib={yang2021mvcln.bib},
+   Pdfurl = {https://nips.cc/Conferences/2020},
+   abstract = {In real-world applications, it is common that only a portion of data is aligned across views due to spatial, temporal, or spatiotemporal asynchronism, thus leading to the so-called Partially View-aligned Problem (PVP). To solve such a less-touched problem without the help of labels, we propose simultaneously learning representation and align- ing data using a noise-robust contrastive loss. In brief, for each sample from one view, our method aims to identify its within-category counterparts from other views, and thus the cross-view correspondence could be established. As the contrastive learning needs data pairs as input, we construct positive pairs using the known correspondences and negative pairs using random sampling. To alleviate or even eliminate the influence of the false negatives caused by random sampling, we propose a noise-robust contrastive loss that could adaptively prevent the false negatives from dominating the network optimization. To the best of our knowledge, this could be the first successful attempt of enabling contrastive learning robust to noisy labels. In fact, this work might remarkably enrich the learning paradigm with noisy labels. More specifically, the traditional noisy labels are defined as incorrect annotations for the supervised tasks such as classification. In contrast, this work proposes that the view correspondence might be false, which is remarkably different from the widely-accepted definition of noisy label. Extensive experiments show the promising performance of our method comparing with 10 state-of-the-art multi-view approaches in the clustering and classification tasks. The code will be publicly released at https://pengxi.me.}
 }
 
 @inproceedings{huang2020pvc,
