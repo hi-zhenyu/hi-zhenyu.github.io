@@ -7,7 +7,7 @@ description:
 
 ### Work Experience
 
-- Research Intern at [Baidu NLP](http://nlp.baidu.com/) mentored by Xinyan Xiao \[[website](https://scholar.google.com/citations?user=lWRYa3wAAAAJ&hl=zh-CN)\].
+- 2020.9-2021.6: Research Intern at [Baidu NLP](http://nlp.baidu.com/) mentored by Xinyan Xiao \[[website](https://scholar.google.com/citations?user=lWRYa3wAAAAJ&hl=zh-CN)\].
 
 ### Academic Service
 
